@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.EVEN{
+  background-color: red;
+}
+.ODD{
+  background-color: blue;
+}
+.red{
+color: red;
+}
+.green{
+color: green;
+}
